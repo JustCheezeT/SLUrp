@@ -1,0 +1,17 @@
+pyproject.toml
+https://github.com/kpu/kenlm/archive/master.zip
+pyctcdecode
+transformers
+datasets
+soundfile
+jiwer
+evaluate
+audiomentations
+colorednoise
+pandas
+numpy
+accelerate
+sentencepiece
+regtag
+validators
+gradio
